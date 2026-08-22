@@ -34,10 +34,8 @@
 ```yaml
    /\_/\       USER       : Thinh Tran (@ThinhTran2412)
   ( o.o )      ROLE       : Fullstack Architect ✕ AI Systems Weaver
-   > ^ <       LOCATION   : Vietnam 🇻🇳 [UTC+7]
-               UPTIME     : 20+ Years [Continuous Integration]
-               CORE_OS    : CyberArch-x86_64 [Kernel: Caffeine-v8.0]
-               SHELL      : zsh 5.9 (custom-prompt)
+   > ^ <       LOCATION   : Ho Chi Minh City, Vietnam 🇻🇳
+               EXP_UPTIME : 4+ Years [Software Engineering Journey]
 
 [RUNTIME_STACK]
 ├── Core Engine    : .NET 9 Enterprise / ASP.NET Core Web API
@@ -175,17 +173,14 @@
 
 <div align="center">
 
-<a href="https://linkedin.com/in/ThinhTran2412" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<a href="mailto:thinhtt2412@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-thinhtt2412%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-<a href="mailto:your.email@example.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-6D4AFF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://t.me/ThinhTran2412" target="_blank">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+<a href="https://zalo.me/0338606577" target="_blank">
+  <img src="https://img.shields.io/badge/Zalo-0338606577-0068FF?style=for-the-badge&logo=zalo&logoColor=white" alt="Zalo" />
 </a>
 <a href="https://github.com/ThinhTran2412" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-ThinhTran2412-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
 <br/><br/>
