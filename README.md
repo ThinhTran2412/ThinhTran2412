@@ -26,40 +26,37 @@
 
 ### 📟 `$ ./identity_scan.sh --target @ThinhTran2412 --verbose`
 
-```ansi
-[1;32m┌──([1;36mroot💀cyber-mainframe[1;32m)-[[1;37m~/identity[1;32m][0m
-[1;32m└─$[0m [1;33mneofetch --cyberpunk --load-neural-profile[0m
+```bash
+┌──(root💀cyber-mainframe)-[~/identity]
+└─$ neofetch --cyberpunk --load-neural-profile
 ```
 
 ```yaml
-                   -`                    NAME       : Thinh Tran
-                  .o+`                   HANDLE     : @ThinhTran2412
-                 `ooo/                   ROLE       : Fullstack Architect ✕ AI Systems Weaver
-                `+oooo:                  LOCATION   : Vietnam 🇻🇳 [UTC+7]
-               `+oooooo:                 UPTIME     : 20+ Years [Continuous Integration]
-               -+oooooo+:                BRAIN_OS   : CyberArch-x86_64 [Kernel: Caffeine-v8.0]
-             `/:-:++oooo+:               SHELL      : zsh 5.9 (custom-prompt)
-            `/++++/+++++++:              
-           `/++++++++++++++:             [RUNTIME ATTRIBUTES]
-          `/+++ooooooooooooo/`           ├── Core Engine    : .NET 9 Enterprise / ASP.NET Core
-         ./ooosssso++osssssso+`          ├── UI & Mobile    : React 18, Vite, React Native, Flutter
-        .oossssso-````/ossssss+`         ├── AI & Cognition : Ollama (Local LLM), LangChain, RAG, OCR
-       -osssssso.      :ssssssso.        ├── Network Comms  : gRPC, SignalR WebSockets, REST
-      :osssssss/        osssso+++.       └── Infrastructure : Docker, Nginx, CI/CD, Embedded IoT
-     /ossssssss/        +ssssooo/-       
-   `/ossssso+/:-        -:/+osssso+-     [MISSION PROTOCOL]
-  `+sso+:-`                 `.-/+oso:    "Architect with precision, automate relentlessly, build to scale."
- `++:.                           `-/+/   
- .`                                 `/   [SYSTEM STATUS]
-                                         ⚡ CPU Load: 100% Coding  |  ☕ Battery: Powered by Coffee
-```
+   /\_/\       USER       : Thinh Tran (@ThinhTran2412)
+  ( o.o )      ROLE       : Fullstack Architect ✕ AI Systems Weaver
+   > ^ <       LOCATION   : Vietnam 🇻🇳 [UTC+7]
+               UPTIME     : 20+ Years [Continuous Integration]
+               CORE_OS    : CyberArch-x86_64 [Kernel: Caffeine-v8.0]
+               SHELL      : zsh 5.9 (custom-prompt)
 
-```bash
-[SYSTEM DIAGNOSTICS & SKILL MATRIX]
-├── Logic & Backend Architecture ──► [████████████████████] 99% (.NET 8/9, Clean Arch, DDD)
-├── Fluid Interfaces (Web/App)   ──► [████████████████░░░░] 88% (React + Vite, Expo, Flutter)
-├── AI & Intelligence Injection  ──► [█████████████████░░░] 92% (Ollama Local LLMs, RAG, Vision)
-└── Cloud, DevOps & Hardware     ──► [████████████████░░░░] 85% (Docker, Nginx, Actions, ESP8266)
+[RUNTIME_STACK]
+├── Core Engine    : .NET 9 Enterprise / ASP.NET Core Web API
+├── UI & Mobile    : React 18, Vite, React Native (Expo), Flutter
+├── AI & Cognition : Ollama (Local LLM), LangChain, RAG, Tesseract OCR
+├── Network Comms  : gRPC (Protobuf), SignalR WebSockets, RESTful API
+└── Infrastructure : Docker, Nginx, GitHub Actions, Embedded IoT (ESP8266)
+
+[SKILL_DIAGNOSTICS]
+├── Backend & Clean Architecture  ──► [████████████████████] 99% (.NET 8/9, DDD, gRPC)
+├── AI & Intelligent Pipelines    ──► [█████████████████░░░] 92% (Ollama, LangChain, RAG)
+├── Fluid Interfaces (Web/Mobile) ──► [████████████████░░░░] 88% (React + Vite, Expo, Flutter)
+└── DevOps & Embedded Hardware    ──► [████████████████░░░░] 85% (Docker, Nginx, CI/CD, ESP8266)
+
+[MISSION_STATEMENT]
+"Architect with precision, automate relentlessly, build to scale."
+
+[SYSTEM_STATUS]
+⚡ CPU Load: 100% Coding  |  ☕ Battery: Powered by Coffee
 ```
 
 ---
