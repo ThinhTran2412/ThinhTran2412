@@ -33,13 +33,13 @@ root@cyber-node:~# cat /etc/profile.d/identity.json
 ```json
 {
   "engineer": "Thinh Tran",
-  "role": "Backend & DevOps / Platform Engineer",
-  "system_architecture": ["Microservices", "Event-Driven", "High Availability"],
+  "role": "Frontend / API Engineer",
+  "system_architecture": ["Micro-Frontends", "Component-Driven", "REST & GraphQL"],
   "focus_areas": [
-    "High-throughput Backend APIs",
-    "Container Orchestration & Cloud Infrastructure",
-    "CI/CD Pipeline Automation & GitOps",
-    "System Monitoring & Observability"
+    "Modern Frontend Interfaces (React & Vite)",
+    "API Integrations (GraphQL & REST)",
+    "System Monitoring & CI/CD Pipeline Automation",
+    "Algorithms & Data Structures"
   ],
   "philosophy": "If it has to be done twice, automate it.",
   "location": "Vietnam (UTC+7)"
@@ -51,51 +51,42 @@ root@cyber-node:~# cat /etc/profile.d/identity.json
 ### ⚡ `$ cat /proc/sys/tech_stack`
 
 <details open>
-<summary><b>🛠️ Backend & Systems Core</b></summary>
+<summary><b>🖥️ Frontend & API Core</b></summary>
 <br>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-DEA584?style=for-the-badge&logo=rust&logoColor=black" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
+</details>
+
+<details open>
+<summary><b>⚙️ Backend, Database & Message Brokers</b></summary>
+<br>
 
 <p align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
   <img src="https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=grpc&logoColor=white" />
 </p>
-
 </details>
 
 <details open>
-<summary><b>☁️ DevOps, Cloud & Infrastructure</b></summary>
+<summary><b>☁️ DevOps & Infrastructure</b></summary>
 <br>
 
 <p align="left">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
-</p>
-
-<p align="left">
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
-  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" />
 </p>
-
 </details>
 
 ---
@@ -116,10 +107,10 @@ root@cyber-node:~# cat /etc/profile.d/identity.json
 
 ---
 
-### 🐍 `$ execute ./snake_contributions.sh`
+### 🧠 `$ fetch --random-quote`
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ThinhTran2412/ThinhTran2412/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote" />
 </div>
 
 ---
