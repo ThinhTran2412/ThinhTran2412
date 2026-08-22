@@ -35,7 +35,6 @@
    /\_/\       USER       : Thinh Tran (@ThinhTran2412)
   ( o.o )      ROLE       : Fullstack Architect ✕ AI Systems Weaver
    > ^ <       LOCATION   : Ho Chi Minh City, Vietnam 🇻🇳
-               EXP_UPTIME : 4+ Years [Software Engineering Journey]
 
 [RUNTIME_STACK]
 ├── Core Engine    : .NET 9 Enterprise / ASP.NET Core Web API
