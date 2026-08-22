@@ -104,13 +104,13 @@ root@cyber-node:~# cat /etc/profile.d/identity.json
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ThinhTran2412&show_icons=true&theme=radical&bg_color=0d1117&border_color=00ff66&title_color=00f0ff&text_color=c9d1d9&icon_color=00ff66&rank_icon=github" alt="GitHub Stats" width="48.5%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ThinhTran2412&theme=radical&background=0d1117&border=00ff66&stroke=00ff66&ring=00f0ff&fire=ff0055&currStreakLabel=00f0ff" alt="GitHub Streak" width="49%" />
+<img src="https://github-stats-extended.vercel.app/api?username=ThinhTran2412&show_icons=true&theme=radical&bg_color=0d1117&border_color=00ff66&title_color=00f0ff&text_color=c9d1d9&icon_color=00ff66&rank_icon=github" alt="GitHub Stats" width="48.5%" />
+<img src="https://streak-stats.demolab.com/?user=ThinhTran2412&theme=radical&background=0d1117&border=00ff66&stroke=00ff66&ring=00f0ff&fire=ff0055&currStreakLabel=00f0ff" alt="GitHub Streak" width="49%" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThinhTran2412&layout=compact&theme=radical&bg_color=0d1117&border_color=00ff66&title_color=00f0ff&text_color=c9d1d9&langs_count=8" alt="Top Languages" width="48.5%" />
-<img src="https://github-profile-trophy.vercel.app/?username=ThinhTran2412&theme=radical&no-frame=false&no-bg=false&margin_w=4&margin_h=4&column=3" alt="GitHub Trophies" width="49%" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ThinhTran2412&layout=compact&theme=radical&bg_color=0d1117&border_color=00ff66&title_color=00f0ff&text_color=c9d1d9&langs_count=8" alt="Top Languages" width="48.5%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ThinhTran2412&theme=react-dark&bg_color=0d1117&color=00ff66&line=00f0ff&point=ff0055&area=true&hide_border=false" alt="Activity Graph" width="49%" />
 
 </div>
 
