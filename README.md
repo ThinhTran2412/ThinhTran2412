@@ -24,32 +24,42 @@
 
 ---
 
-### 📟 `$ whoami`
+### 📟 `$ ./identity_scan.sh --target @ThinhTran2412 --verbose`
 
-```bash
-root@cyber-node:~# cat /etc/profile.d/identity.json
+```ansi
+[1;32m┌──([1;36mroot💀cyber-mainframe[1;32m)-[[1;37m~/identity[1;32m][0m
+[1;32m└─$[0m [1;33mneofetch --cyberpunk --load-neural-profile[0m
 ```
 
-```json
-{
-  "engineer": "Thinh Tran",
-  "role": "Fullstack Software Engineer (.NET & React) | AI & Systems Integrator",
-  "system_architecture": [
-    "Clean Architecture (Domain-Driven Design)",
-    "Microservices & gRPC Communication",
-    "Real-time Systems (SignalR WebSockets)",
-    "Local LLM Inference & RAG Pipelines"
-  ],
-  "focus_areas": [
-    "Enterprise .NET 8 / .NET 9 Web APIs & Microservices",
-    "Modern Web (React 18, Vite, TypeScript) & Mobile (React Native Expo, Flutter)",
-    "AI / LLM Integration (Ollama, LangChain, RAG, Tesseract OCR)",
-    "Containerization & CI/CD Automation (Docker, Nginx, GitHub Actions)",
-    "Embedded & IoT Development (ESP8266, Arduino C/C++)"
-  ],
-  "philosophy": "Architect with precision, automate relentlessly, build to scale.",
-  "location": "Vietnam (UTC+7)"
-}
+```yaml
+                   -`                    NAME       : Thinh Tran
+                  .o+`                   HANDLE     : @ThinhTran2412
+                 `ooo/                   ROLE       : Fullstack Architect ✕ AI Systems Weaver
+                `+oooo:                  LOCATION   : Vietnam 🇻🇳 [UTC+7]
+               `+oooooo:                 UPTIME     : 20+ Years [Continuous Integration]
+               -+oooooo+:                BRAIN_OS   : CyberArch-x86_64 [Kernel: Caffeine-v8.0]
+             `/:-:++oooo+:               SHELL      : zsh 5.9 (custom-prompt)
+            `/++++/+++++++:              
+           `/++++++++++++++:             [RUNTIME ATTRIBUTES]
+          `/+++ooooooooooooo/`           ├── Core Engine    : .NET 9 Enterprise / ASP.NET Core
+         ./ooosssso++osssssso+`          ├── UI & Mobile    : React 18, Vite, React Native, Flutter
+        .oossssso-````/ossssss+`         ├── AI & Cognition : Ollama (Local LLM), LangChain, RAG, OCR
+       -osssssso.      :ssssssso.        ├── Network Comms  : gRPC, SignalR WebSockets, REST
+      :osssssss/        osssso+++.       └── Infrastructure : Docker, Nginx, CI/CD, Embedded IoT
+     /ossssssss/        +ssssooo/-       
+   `/ossssso+/:-        -:/+osssso+-     [MISSION PROTOCOL]
+  `+sso+:-`                 `.-/+oso:    "Architect with precision, automate relentlessly, build to scale."
+ `++:.                           `-/+/   
+ .`                                 `/   [SYSTEM STATUS]
+                                         ⚡ CPU Load: 100% Coding  |  ☕ Battery: Powered by Coffee
+```
+
+```bash
+[SYSTEM DIAGNOSTICS & SKILL MATRIX]
+├── Logic & Backend Architecture ──► [████████████████████] 99% (.NET 8/9, Clean Arch, DDD)
+├── Fluid Interfaces (Web/App)   ──► [████████████████░░░░] 88% (React + Vite, Expo, Flutter)
+├── AI & Intelligence Injection  ──► [█████████████████░░░] 92% (Ollama Local LLMs, RAG, Vision)
+└── Cloud, DevOps & Hardware     ──► [████████████████░░░░] 85% (Docker, Nginx, Actions, ESP8266)
 ```
 
 ---
