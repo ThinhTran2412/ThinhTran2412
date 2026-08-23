@@ -31,7 +31,7 @@
 └─$ neofetch --cyberpunk --load-neural-profile
 ```
 
-```yaml
+```text
    /\_/\       USER       : Thinh Tran (@ThinhTran2412)
   ( o.o )      ROLE       : Fullstack Architect ✕ AI Systems Weaver
    > ^ <       LOCATION   : Ho Chi Minh City, Vietnam 🇻🇳
