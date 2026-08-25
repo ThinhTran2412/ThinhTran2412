@@ -41,17 +41,6 @@ jobs:
           currStreakLabel: 00f0ff
           timezone: Asia/Ho_Chi_Minh
 
-      - name: Generate 3D contribution graph
-        uses: yoshi389111/github-profile-3d-contrib@latest
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
-
-      - name: Copy 3D graphs to dist folder
-        run: |
-          mkdir -p dist
-          cp -r profile-3d-contrib/* dist/
-
       - name: Push SVGs to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
