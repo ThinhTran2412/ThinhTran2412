@@ -156,6 +156,10 @@
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ThinhTran2412&layout=compact&theme=radical&bg_color=0d1117&border_color=00ff66&title_color=00f0ff&text_color=c9d1d9&langs_count=8" alt="Top Languages" width="48.5%" />
 <img src="https://raw.githubusercontent.com/ThinhTran2412/ThinhTran2412/output/activity-graph.svg" alt="Activity Graph" width="49%" />
 
+<br/>
+
+<img src="https://raw.githubusercontent.com/ThinhTran2412/ThinhTran2412/output/profile-gitblock-animate.svg" alt="3D Contribution Graph" width="98%" />
+
 </div>
 
 ---
