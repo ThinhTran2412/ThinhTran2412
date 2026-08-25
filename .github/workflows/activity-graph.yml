@@ -16,7 +16,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Generate activity graph SVG
-        uses: maurodesouza/github-readme-activity-graph-action@v2
+        uses: maurodesouza/github-readme-activity-graph-action@v1
         with:
           username: ${{ github.repository_owner }}
           # Use the exact same styles as your original graph
