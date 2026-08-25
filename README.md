@@ -149,7 +149,7 @@
 <div align="center">
 
 <img src="https://github-stats-extended.vercel.app/api?username=ThinhTran2412&show_icons=true&theme=radical&bg_color=0d1117&border_color=00ff66&title_color=00f0ff&text_color=c9d1d9&icon_color=00ff66&rank_icon=github" alt="GitHub Stats" width="48.5%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ThinhTran2412&theme=radical&background=0d1117&border=00ff66&stroke=00ff66&ring=00f0ff&fire=ff0055&currStreakLabel=00f0ff&v=2" alt="GitHub Streak" width="49%" />
+<img src="https://streak-stats.demolab.com/?user=ThinhTran2412&theme=radical&background=0d1117&border=00ff66&stroke=00ff66&ring=00f0ff&fire=ff0055&currStreakLabel=00f0ff&timezone=Asia/Ho_Chi_Minh&v=2" alt="GitHub Streak" width="49%" />
 
 <br/>
 
