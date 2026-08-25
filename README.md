@@ -158,7 +158,7 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/ThinhTran2412/ThinhTran2412/output/profile-gitblock-animate.svg" alt="3D Contribution Graph" width="98%" />
+<img src="https://raw.githubusercontent.com/ThinhTran2412/ThinhTran2412/output/profile-green-animate.svg" alt="3D Contribution Graph" width="98%" />
 
 </div>
 
